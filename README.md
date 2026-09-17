@@ -16,4 +16,4 @@
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40" />
 </div>
 
-<img src="https://www.denofgeek.com/wp-content/uploads/2022/02/Arceus-art.v1.jpg?fit=2208%2C1436,html,css" height="300" />
+<img src="https://www.denofgeek.com/wp-content/uploads/2022/02/Arceus-art.v1.jpg?fit=2208%2C1436,html,css" height="400" />
